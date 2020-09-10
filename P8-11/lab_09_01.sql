@@ -1,0 +1,6 @@
+CREATE TABLE HR.DEPT 
+    (
+    ID NUMBER(7) CONSTRAINT llave_prim PRIMARY KEY,
+    NAME VARCHAR(25)
+    );
+
