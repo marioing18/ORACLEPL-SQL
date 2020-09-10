@@ -1,0 +1,1 @@
+SELECT CURRENT_DATE "Fecha actual" FROM Dual;
